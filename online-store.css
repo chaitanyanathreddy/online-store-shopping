@@ -1,0 +1,70 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg-container {
+    background-color: #894bca;
+    padding: 10px;
+    width: 100vw;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    background-size: cover;
+
+}
+
+.storage-logo {
+    height: 150px;
+    padding-left: 170px;
+}
+
+.card-tag {
+    color: white;
+    font-size: 25px;
+    width: 100px;
+    font-family: Bree Serif;
+    padding-left: 15px;
+    padding-top: 15px;
+}
+
+.container-card {
+    background-color: #ffffff;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    padding: 20px;
+}
+
+.container-heading {
+    color: #f780c3;
+    font-size: 20px;
+    font-family: Roboto;
+    font-weight: 600;
+
+}
+
+.container-images {
+    width: 70px;
+    height: 60px;
+    margin-top: 20px;
+}
+
+.heading {
+    color: #323f4b;
+    font-size: 20px;
+    font-family: Roboto;
+    font-weight: 600;
+}
+
+.paragraph {
+    color: #7b8794;
+    font-size: 17px;
+    font-family: Roboto;
+}
+
+.spacing {
+    padding: 20px;
+}
+
+.container-radius {
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
